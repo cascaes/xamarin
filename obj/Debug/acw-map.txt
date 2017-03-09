@@ -1,0 +1,12 @@
+Login.Activity1, Login;md533583cc845b761e36e0b683119bc5692.Activity1
+Login.Activity1, Login, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md533583cc845b761e36e0b683119bc5692.Activity1
+Login.Activity1;md533583cc845b761e36e0b683119bc5692.Activity1
+login.Activity1;md533583cc845b761e36e0b683119bc5692.Activity1
+Login.Fragment1, Login;md533583cc845b761e36e0b683119bc5692.Fragment1
+Login.Fragment1, Login, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md533583cc845b761e36e0b683119bc5692.Fragment1
+Login.Fragment1;md533583cc845b761e36e0b683119bc5692.Fragment1
+login.Fragment1;md533583cc845b761e36e0b683119bc5692.Fragment1
+Login.MainActivity, Login;md533583cc845b761e36e0b683119bc5692.MainActivity
+Login.MainActivity, Login, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md533583cc845b761e36e0b683119bc5692.MainActivity
+Login.MainActivity;md533583cc845b761e36e0b683119bc5692.MainActivity
+login.MainActivity;md533583cc845b761e36e0b683119bc5692.MainActivity
