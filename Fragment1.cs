@@ -31,5 +31,12 @@ namespace Login
             var view = inflater.Inflate(Resource.Layout.Formulario, container, false);
             return view;
         }
+
+        public override void OnActivityCreated(Bundle savedInstanceState)
+        {
+            Dialog.Window.RequestFeature(WindowFeatures.NoTitle);
+            base.OnActivityCreated(savedInstanceState);
+            Dialog.Window.Attributes.WindowAnimations = Resource.Style.dialog_anim;
+        }
     }
 }

@@ -28,6 +28,25 @@ namespace Login
 		{
 		}
 		
+		public partial class Animation
+		{
+			
+			// aapt resource value: 0x7f040000
+			public const int slide_down = 2130968576;
+			
+			// aapt resource value: 0x7f040001
+			public const int slide_up = 2130968577;
+			
+			static Animation()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Animation()
+			{
+			}
+		}
+		
 		public partial class Attribute
 		{
 			
@@ -60,29 +79,29 @@ namespace Login
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f050005
-			public const int button1 = 2131034117;
+			// aapt resource value: 0x7f070005
+			public const int button1 = 2131165189;
 			
-			// aapt resource value: 0x7f050003
-			public const int button2 = 2131034115;
+			// aapt resource value: 0x7f070003
+			public const int button2 = 2131165187;
 			
-			// aapt resource value: 0x7f050001
-			public const int edtEmail = 2131034113;
+			// aapt resource value: 0x7f070001
+			public const int edtEmail = 2131165185;
 			
-			// aapt resource value: 0x7f050000
-			public const int edtName = 2131034112;
+			// aapt resource value: 0x7f070000
+			public const int edtName = 2131165184;
 			
-			// aapt resource value: 0x7f050002
-			public const int edtPassword = 2131034114;
+			// aapt resource value: 0x7f070002
+			public const int edtPassword = 2131165186;
 			
-			// aapt resource value: 0x7f050007
-			public const int progressBar1 = 2131034119;
+			// aapt resource value: 0x7f070007
+			public const int progressBar1 = 2131165191;
 			
-			// aapt resource value: 0x7f050004
-			public const int textView1 = 2131034116;
+			// aapt resource value: 0x7f070004
+			public const int textView1 = 2131165188;
 			
-			// aapt resource value: 0x7f050006
-			public const int textView2 = 2131034118;
+			// aapt resource value: 0x7f070006
+			public const int textView2 = 2131165190;
 			
 			static Id()
 			{
@@ -116,11 +135,11 @@ namespace Login
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f040001
-			public const int ApplicationName = 2130968577;
+			// aapt resource value: 0x7f050001
+			public const int ApplicationName = 2131034113;
 			
-			// aapt resource value: 0x7f040000
-			public const int Hello = 2130968576;
+			// aapt resource value: 0x7f050000
+			public const int Hello = 2131034112;
 			
 			static String()
 			{
@@ -128,6 +147,22 @@ namespace Login
 			}
 			
 			private String()
+			{
+			}
+		}
+		
+		public partial class Style
+		{
+			
+			// aapt resource value: 0x7f060000
+			public const int dialog_anim = 2131099648;
+			
+			static Style()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Style()
 			{
 			}
 		}
